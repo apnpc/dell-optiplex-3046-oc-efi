@@ -16,4 +16,4 @@
 
 Big Sur 11.6.4
 
-![](/Users/alan/Library/Application%20Support/marktext/images/4542e3f5ef2669652c19a4d50dfdb8a36e7ffaa8.png)
+![](/images/2022-03-10-23-23-55-image.png)
