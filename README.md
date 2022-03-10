@@ -1,0 +1,1 @@
+# dell-optiplex-3046-oc-efi
